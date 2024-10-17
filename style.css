@@ -1,0 +1,103 @@
+body{
+    background-color: rgb(43, 21, 62);
+}
+.container {
+    background-color: azure;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    height: 550px;
+    padding: 200px;
+    margin-left: 450px;
+
+}
+
+.no {
+    height: 15px;
+    width: 20px;
+    padding-right: 10px;
+}
+
+.box1{
+    height: 45px;
+    width: 560px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    background-color: white;
+    box-shadow: 2px 3px 9px rgb(189, 188, 188);
+}
+.box2{
+    height: 45px;
+    width: 560px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    color: white;
+    background-color: #2e3031bd;
+    box-shadow: 2px 3px 9px rgb(189, 188, 188);
+
+}
+.box3{
+    height: 45px;
+    width: 560px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    background-color: white;
+    box-shadow: 2px 3px 9px rgb(189, 188, 188);
+    border-radius: 35px;
+}
+.box4{
+    height: 45px;
+    width: 560px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    color: white;
+    background-color: #2e3031bd;
+    box-shadow: 2px 3px 9px rgb(189, 188, 188);
+    border-radius: 35px;
+}
+.box5{
+    height: 45px;
+    width: 560px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    background-color: white;
+    box-shadow: 2px 3px 9px rgb(189, 188, 188);
+}
+.box6{
+    height: 45px;
+    width: 560px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    color: white;
+    background-color: #2e3031bd;
+    box-shadow: 2px 3px 9px rgb(189, 188, 188);
+}
+
+.mark{
+    width: 35px;
+    height: 35px;
+    border:50%;
+    padding-left: 20px;
+}
+.lll{
+    padding-right: 170px;
+}
+.click{
+    padding-left: 130px;
+    width: 35px;
+    height: 35px;
+    border:50%;
+}
